@@ -5,9 +5,8 @@
  * jack_bauer - prints every minute of the day
  */
 void jack_bauer(void)
-{int hour, minute}
-int hour = 0;
-int minute = 0;
+{int hour, minute 0}
+
 {
 	for (hour = 0; hour <= 23; hour++)
 {
