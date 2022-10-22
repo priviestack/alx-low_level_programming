@@ -11,7 +11,7 @@
 int largest number(int a, int b, int c)
 {
 	int largest;
-	
+
 	if (a > b)
 	{
 		if (b > c)
